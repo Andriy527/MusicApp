@@ -1,0 +1,13 @@
+.form_content_wrapper {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.45);;
+    background-color: rgba(0, 0, 0, 0.02);
+    border-radius: 8px;
+    border: 1px dashed rgb(217, 217, 217);
+    margin-top: 16px;
+    padding: 16px;
+}
+
+.buttons_wrapper {
+    margin-top: 24px;
+}
